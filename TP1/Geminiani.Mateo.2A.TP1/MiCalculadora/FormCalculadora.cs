@@ -50,6 +50,10 @@ namespace MiCalculadora
                 labelResultado.Text = resultado.ToString();
                 listBoxHistorial.Items.Add(string.Format("{0} {1} {2} = {3}\n", valor1, op, valor2, resultado.ToString()));
             }
+            else
+            {
+                labelResultado.Text = "Valores invalidos";
+            }
         }
 
         private void buttonLimpiar_Click(object sender, EventArgs e)
