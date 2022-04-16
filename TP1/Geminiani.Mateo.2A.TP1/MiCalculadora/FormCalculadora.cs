@@ -35,7 +35,7 @@ namespace MiCalculadora
             Operando num1 = new Operando(numero1);
             Operando num2 = new Operando(numero2);
             Calculadora calc = new Calculadora();
-            return calc.Operar(num1, num2, char.Parse(operador));
+            return calc.Operar(num1, num2, operador[0]);
         }
 
         private void buttonOperar_Click(object sender, EventArgs e)
@@ -55,7 +55,6 @@ namespace MiCalculadora
                 labelResultado.Text = "Valores invalidos";
             }
         }
-
         private void buttonLimpiar_Click(object sender, EventArgs e)
         {
             this.Limpiar();
