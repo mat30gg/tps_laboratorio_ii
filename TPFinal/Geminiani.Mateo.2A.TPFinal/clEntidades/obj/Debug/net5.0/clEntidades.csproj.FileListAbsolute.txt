@@ -1,0 +1,12 @@
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Trabajos Practicos\TPFinal\Geminiani.Mateo.2A.TPFinal\clEntidades\bin\Debug\net5.0\clEntidades.deps.json
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Trabajos Practicos\TPFinal\Geminiani.Mateo.2A.TPFinal\clEntidades\bin\Debug\net5.0\clEntidades.dll
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Trabajos Practicos\TPFinal\Geminiani.Mateo.2A.TPFinal\clEntidades\bin\Debug\net5.0\ref\clEntidades.dll
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Trabajos Practicos\TPFinal\Geminiani.Mateo.2A.TPFinal\clEntidades\bin\Debug\net5.0\clEntidades.pdb
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Trabajos Practicos\TPFinal\Geminiani.Mateo.2A.TPFinal\clEntidades\obj\Debug\net5.0\clEntidades.csproj.AssemblyReference.cache
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Trabajos Practicos\TPFinal\Geminiani.Mateo.2A.TPFinal\clEntidades\obj\Debug\net5.0\clEntidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Trabajos Practicos\TPFinal\Geminiani.Mateo.2A.TPFinal\clEntidades\obj\Debug\net5.0\clEntidades.AssemblyInfoInputs.cache
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Trabajos Practicos\TPFinal\Geminiani.Mateo.2A.TPFinal\clEntidades\obj\Debug\net5.0\clEntidades.AssemblyInfo.cs
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Trabajos Practicos\TPFinal\Geminiani.Mateo.2A.TPFinal\clEntidades\obj\Debug\net5.0\clEntidades.csproj.CoreCompileInputs.cache
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Trabajos Practicos\TPFinal\Geminiani.Mateo.2A.TPFinal\clEntidades\obj\Debug\net5.0\clEntidades.dll
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Trabajos Practicos\TPFinal\Geminiani.Mateo.2A.TPFinal\clEntidades\obj\Debug\net5.0\ref\clEntidades.dll
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Trabajos Practicos\TPFinal\Geminiani.Mateo.2A.TPFinal\clEntidades\obj\Debug\net5.0\clEntidades.pdb

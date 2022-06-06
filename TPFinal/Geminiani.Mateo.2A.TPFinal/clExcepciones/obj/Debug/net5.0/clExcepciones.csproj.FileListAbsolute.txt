@@ -1,0 +1,12 @@
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Trabajos Practicos\TPFinal\Geminiani.Mateo.2A.TPFinal\clExcepciones\bin\Debug\net5.0\clExcepciones.deps.json
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Trabajos Practicos\TPFinal\Geminiani.Mateo.2A.TPFinal\clExcepciones\bin\Debug\net5.0\clExcepciones.dll
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Trabajos Practicos\TPFinal\Geminiani.Mateo.2A.TPFinal\clExcepciones\bin\Debug\net5.0\ref\clExcepciones.dll
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Trabajos Practicos\TPFinal\Geminiani.Mateo.2A.TPFinal\clExcepciones\bin\Debug\net5.0\clExcepciones.pdb
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Trabajos Practicos\TPFinal\Geminiani.Mateo.2A.TPFinal\clExcepciones\obj\Debug\net5.0\clExcepciones.csproj.AssemblyReference.cache
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Trabajos Practicos\TPFinal\Geminiani.Mateo.2A.TPFinal\clExcepciones\obj\Debug\net5.0\clExcepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Trabajos Practicos\TPFinal\Geminiani.Mateo.2A.TPFinal\clExcepciones\obj\Debug\net5.0\clExcepciones.AssemblyInfoInputs.cache
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Trabajos Practicos\TPFinal\Geminiani.Mateo.2A.TPFinal\clExcepciones\obj\Debug\net5.0\clExcepciones.AssemblyInfo.cs
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Trabajos Practicos\TPFinal\Geminiani.Mateo.2A.TPFinal\clExcepciones\obj\Debug\net5.0\clExcepciones.csproj.CoreCompileInputs.cache
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Trabajos Practicos\TPFinal\Geminiani.Mateo.2A.TPFinal\clExcepciones\obj\Debug\net5.0\clExcepciones.dll
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Trabajos Practicos\TPFinal\Geminiani.Mateo.2A.TPFinal\clExcepciones\obj\Debug\net5.0\ref\clExcepciones.dll
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Trabajos Practicos\TPFinal\Geminiani.Mateo.2A.TPFinal\clExcepciones\obj\Debug\net5.0\clExcepciones.pdb

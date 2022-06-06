@@ -1,0 +1,180 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mateo\\Desktop\\Programacion\\UTN\\2° Cuatrimestre\\Laboratorio\\Trabajos Practicos\\TPFinal\\Geminiani.Mateo.2A.TPFinal\\frmMenuOpciones\\frmMenuOpciones.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mateo\\Desktop\\Programacion\\UTN\\2° Cuatrimestre\\Laboratorio\\Trabajos Practicos\\TPFinal\\Geminiani.Mateo.2A.TPFinal\\clEntidades\\clEntidades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mateo\\Desktop\\Programacion\\UTN\\2° Cuatrimestre\\Laboratorio\\Trabajos Practicos\\TPFinal\\Geminiani.Mateo.2A.TPFinal\\clEntidades\\clEntidades.csproj",
+        "projectName": "clEntidades",
+        "projectPath": "C:\\Users\\mateo\\Desktop\\Programacion\\UTN\\2° Cuatrimestre\\Laboratorio\\Trabajos Practicos\\TPFinal\\Geminiani.Mateo.2A.TPFinal\\clEntidades\\clEntidades.csproj",
+        "packagesPath": "C:\\Users\\mateo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mateo\\Desktop\\Programacion\\UTN\\2° Cuatrimestre\\Laboratorio\\Trabajos Practicos\\TPFinal\\Geminiani.Mateo.2A.TPFinal\\clEntidades\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mateo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mateo\\Desktop\\Programacion\\UTN\\2° Cuatrimestre\\Laboratorio\\Trabajos Practicos\\TPFinal\\Geminiani.Mateo.2A.TPFinal\\clExcepciones\\clExcepciones.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mateo\\Desktop\\Programacion\\UTN\\2° Cuatrimestre\\Laboratorio\\Trabajos Practicos\\TPFinal\\Geminiani.Mateo.2A.TPFinal\\clExcepciones\\clExcepciones.csproj",
+        "projectName": "clExcepciones",
+        "projectPath": "C:\\Users\\mateo\\Desktop\\Programacion\\UTN\\2° Cuatrimestre\\Laboratorio\\Trabajos Practicos\\TPFinal\\Geminiani.Mateo.2A.TPFinal\\clExcepciones\\clExcepciones.csproj",
+        "packagesPath": "C:\\Users\\mateo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mateo\\Desktop\\Programacion\\UTN\\2° Cuatrimestre\\Laboratorio\\Trabajos Practicos\\TPFinal\\Geminiani.Mateo.2A.TPFinal\\clExcepciones\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mateo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mateo\\Desktop\\Programacion\\UTN\\2° Cuatrimestre\\Laboratorio\\Trabajos Practicos\\TPFinal\\Geminiani.Mateo.2A.TPFinal\\frmMenuOpciones\\frmMenuOpciones.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mateo\\Desktop\\Programacion\\UTN\\2° Cuatrimestre\\Laboratorio\\Trabajos Practicos\\TPFinal\\Geminiani.Mateo.2A.TPFinal\\frmMenuOpciones\\frmMenuOpciones.csproj",
+        "projectName": "frmMenuOpciones",
+        "projectPath": "C:\\Users\\mateo\\Desktop\\Programacion\\UTN\\2° Cuatrimestre\\Laboratorio\\Trabajos Practicos\\TPFinal\\Geminiani.Mateo.2A.TPFinal\\frmMenuOpciones\\frmMenuOpciones.csproj",
+        "packagesPath": "C:\\Users\\mateo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mateo\\Desktop\\Programacion\\UTN\\2° Cuatrimestre\\Laboratorio\\Trabajos Practicos\\TPFinal\\Geminiani.Mateo.2A.TPFinal\\frmMenuOpciones\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mateo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {
+              "C:\\Users\\mateo\\Desktop\\Programacion\\UTN\\2° Cuatrimestre\\Laboratorio\\Trabajos Practicos\\TPFinal\\Geminiani.Mateo.2A.TPFinal\\clEntidades\\clEntidades.csproj": {
+                "projectPath": "C:\\Users\\mateo\\Desktop\\Programacion\\UTN\\2° Cuatrimestre\\Laboratorio\\Trabajos Practicos\\TPFinal\\Geminiani.Mateo.2A.TPFinal\\clEntidades\\clEntidades.csproj"
+              },
+              "C:\\Users\\mateo\\Desktop\\Programacion\\UTN\\2° Cuatrimestre\\Laboratorio\\Trabajos Practicos\\TPFinal\\Geminiani.Mateo.2A.TPFinal\\clExcepciones\\clExcepciones.csproj": {
+                "projectPath": "C:\\Users\\mateo\\Desktop\\Programacion\\UTN\\2° Cuatrimestre\\Laboratorio\\Trabajos Practicos\\TPFinal\\Geminiani.Mateo.2A.TPFinal\\clExcepciones\\clExcepciones.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

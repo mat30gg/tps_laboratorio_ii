@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "frmMenuOpciones/1.0.0": {
+        "dependencies": {
+          "clEntidades": "1.0.0",
+          "clExcepciones": "1.0.0"
+        },
+        "runtime": {
+          "frmMenuOpciones.dll": {}
+        }
+      },
+      "clEntidades/1.0.0": {
+        "runtime": {
+          "clEntidades.dll": {}
+        }
+      },
+      "clExcepciones/1.0.0": {
+        "runtime": {
+          "clExcepciones.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "frmMenuOpciones/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "clEntidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "clExcepciones/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
